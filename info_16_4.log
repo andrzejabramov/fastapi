@@ -1,0 +1,9 @@
+
+2024-11-17T10:26:29.035439+0300 INFO GET: []
+2024-11-17T10:26:56.690455+0300 INFO POST: [{'id': 1, 'username': 'UrbanUser', 'age': 24}]
+2024-11-17T10:27:11.186193+0300 INFO POST: [{'id': 1, 'username': 'UrbanUser', 'age': 24}, {'id': 2, 'username': 'UrbanTest', 'age': 36}]
+2024-11-17T10:27:29.454638+0300 INFO POST: [{'id': 1, 'username': 'UrbanUser', 'age': 24}, {'id': 2, 'username': 'UrbanTest', 'age': 36}, {'id': 3, 'username': 'Admin', 'age': 48}]
+2024-11-17T10:27:58.984383+0300 INFO PUT: [{'id': 1, 'username': 'UrbanProfi', 'age': 28}, {'id': 2, 'username': 'UrbanTest', 'age': 36}, {'id': 3, 'username': 'Admin', 'age': 48}]
+2024-11-17T10:28:14.218158+0300 ERROR PUT: 10 is not in list
+2024-11-17T10:28:34.218919+0300 INFO DELETE: [{'id': 2, 'username': 'UrbanTest', 'age': 36}, {'id': 3, 'username': 'Admin', 'age': 48}]
+2024-11-17T10:28:45.403205+0300 ERROR DELETE: 10 is not in list
